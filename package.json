@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Basic test server to practive front/back end web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madking120/server.git"
+  },
+  "author": "Sam Lorraway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madking120/server/issues"
+  },
+  "homepage": "https://github.com/Madking120/server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
